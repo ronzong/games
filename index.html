@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+
+  <title>Glam Guru: Puzzle Collection</title>
+
+  <meta name="viewport"
+    content="width=device-width,user-scalable=no,initial-scale=1,minimum-scale=1,maximum-scale=1,minimal-ui=true" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="full-screen" content="yes" />
+  <meta name="screen-orientation" content="portrait" />
+  <meta name="x5-fullscreen" content="true" />
+  <meta name="360-fullscreen" content="true" />
+
+  <meta name="renderer" content="webkit" />
+  <meta name="force-rendering" content="webkit" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+  <link rel="stylesheet" type="text/css" href="./style.css" />
+  <link rel="preload" as="font" href="./FredokaOne-Regular.TTF" type="font/ttf" crossorigin="anonymous">
+  <link rel="icon" href="favicon.ico" />
+  <!-- <script src="cc-resolution.js" charset="utf-8"></script> -->
+  <style type="text/css">
+    * {
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+
+    canvas,
+    div {
+      outline: none;
+    }
+
+    @font-face {
+      font-family: "Arial";
+      src: url("FredokaOne-Regular.TTF");
+    }
+
+    html {
+      touch-action: none
+    }
+
+    body {
+      overflow: hidden;
+      /* 页面背景颜色 */
+      background: #acd1ff;
+    }
+
+    #GameDiv {
+      position: fixed;
+      /* 固定定位，占满屏幕 */
+      width: 100vw;
+      /* 视口宽度100% */
+      height: 100vh;
+      /* 视口高度100% */
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      /* 隐藏溢出内容 */
+    }
+  </style>
+  <script>var totalGameSize = 20660 * 1024;</script>
+  <script type="text/javascript" src="./YYGGames.js"></script>
+  <script>
+YYGGames.setConfig({
+    gd:"ede2db8c5f4d4eef841c0cda948e4ecd"
+})
+     </script>
+  <script src="cc-resolution.js" charset="utf-8"></script>
+</head>
+
+<body>
+
+
+  <div id="GameDiv" cc_exact_fit_screen="false" style="width: 1080px; height: 1920px;">
+    <div id="Cocos3dGameContainer">
+      <canvas id="GameCanvas" width="1080" height="1920" tabindex="99"></canvas>
+    </div>
+  </div>
+
+
+  <!-- <div id="GameDiv">
+    <canvas id="GameCanvas" width="720" height="1280" tabindex="99"></canvas>
+  </div> -->
+  <script src="src/polyfills.bundle.js" charset="utf-8"> </script>
+  <!-- SystemJS support. -->
+  <script src="src/system.bundle.js" charset="utf-8"> </script>
+  <!-- Import map -->
+  <script src="src/import-map.json" type="systemjs-importmap" charset="utf-8"> </script>
+  <script>
+
+    // console intentionally left enabled for local debugging
+    System.import('./index.js').catch(function (err) { console.error(err); })
+
+    // if(window.navigator.userAgent.match(/Mobile/i)){
+    resolution.init();
+    // }else{
+    // resolution_Rotation.init(1080, 1920);
+    // }
+    // console.timeEnd = console.time = console.error = console.log = console.info = console.warn = function () { };
+    //显示
+    YYGGames.showLoadingSourceScene()
+      .setAppName("Glam-Guru-Puzzle-Collection")//需要设置appName
+      .setGameLogoUrl("./@base/logo.png") //设置游戏logo
+      .setGameBannerUrl("./@base/banner.jpg");//设置游戏banner
+    //隐藏
+    //YYGGames.hideLoadingSourceScene();
+    //onCocosEngineGame
+  </script>
+</body>
+
+</html>
