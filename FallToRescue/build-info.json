@@ -1,0 +1,183 @@
+{
+    "game": "FallToRescue",
+    "appId": "1606637210931767",
+    "unityVersion": "2022.3.62f3",
+    "builtAtUtc": "2026-10-15T00:51:12.5087314Z",
+    "sdkMode": "preview",
+    "sdkVersion": "8.0",
+    "pluginCommit": "ec32ba76dc3716b3a08e4ebe15e5b5725488e005",
+    "files": [
+        {
+            "path": "Build/web.data",
+            "sha256": "54b2406df238c8d039609492c60f224788189be8b1dd489bec74cbd8f5df0fda"
+        },
+        {
+            "path": "Build/web.framework.js",
+            "sha256": "bce00a8fc2dd4dbf8e8f6d48a077427233ef3611b6b05a7650628e39eac8f854"
+        },
+        {
+            "path": "Build/web.loader.js",
+            "sha256": "8e5e44b2fb9658e0d328e9d8251dc1343df430c8032517c37f2d79405794086b"
+        },
+        {
+            "path": "Build/web.wasm",
+            "sha256": "3ac681847fff05a299409a9279c70615302bf41b6962364f6265ea36231a2414"
+        },
+        {
+            "path": "cert.pem",
+            "sha256": "088f2afa1a9e02026d3b32f1983b2e70885313a80c07b1fcfad86c7810394e12"
+        },
+        {
+            "path": "fbapp-config.json",
+            "sha256": "4647a02a2dd98ebfaa75c23f1c2e188381d1049875f3640eae9ec27433f61eae"
+        },
+        {
+            "path": "ig_views/button1.png",
+            "sha256": "4b174fda2e5759542ff100d8e722ac8cc8d7fe338848d2475e5ccfb82b06a22c"
+        },
+        {
+            "path": "ig_views/button2.png",
+            "sha256": "c9c93b5d6a5ad0a952f4c87db4f18c1ce80ee945cfc1b4469b1a3c44e5c9c3e6"
+        },
+        {
+            "path": "ig_views/example_overlay.xml",
+            "sha256": "dfb64e631391d4afbf0812b0406f517493aeea8e3bbfe53aeaf69a9b4dbf30c7"
+        },
+        {
+            "path": "ig_views/frame1.png",
+            "sha256": "cd0e67f7c4b80595f4cb63e7bdbc5ab0d03ffb9cb4c559090d5889fca9296049"
+        },
+        {
+            "path": "ig_views/frame2.png",
+            "sha256": "d23512d37ac99010ae9ef934c5f8f21fbb3a15d7a4992bb57f72606d2727266c"
+        },
+        {
+            "path": "ig_views/frame3.png",
+            "sha256": "0750d41907e2299ed80272823ef5aa4f704f275ae6419ba11e1e314c825b8a74"
+        },
+        {
+            "path": "ig_views/Icon_ImageIcon_Badge_Best.png",
+            "sha256": "d376a869a1a7b75af278a3c80cae077b17d72c07577706644544a1c7589bd598"
+        },
+        {
+            "path": "ig_views/icon1.png",
+            "sha256": "5a894dfa5dc3077e2338de23df8a49da18af1e3f1bd20ae8bf04e7a2be1ec9c7"
+        },
+        {
+            "path": "ig_views/icon2.png",
+            "sha256": "95d4744c87dca2306b54c432db28ec799cd3231fba518ad14d1673b74b502374"
+        },
+        {
+            "path": "ig_views/icon3.png",
+            "sha256": "70cb3745ed199616c020ecafa6a5349a793aaf5a332846ddbf5e799e6ba7dde1"
+        },
+        {
+            "path": "ig_views/icon4.png",
+            "sha256": "82eaf69e16ee461e49679d55411be3bc1d0a2070751b8c444a52dddc66a55af6"
+        },
+        {
+            "path": "ig_views/icon5.png",
+            "sha256": "352c8b3d9b6128cbffa95a5c3e6b2eecae41fe55557533681bd8e11c50229fe5"
+        },
+        {
+            "path": "ig_views/icon6.png",
+            "sha256": "25af6cafda6e11d519854f25bbdec0d407a325b2733c3a7b808dd989674670c8"
+        },
+        {
+            "path": "ig_views/ov-style.css",
+            "sha256": "d312f615d85e0aab7fe8620a52947ca6b21c8279218c4ae8302e6ed89cf427d5"
+        },
+        {
+            "path": "ig_views/portrait1.png",
+            "sha256": "bdfb86addf23e9e93b785d9448b8a915669bc7e799ff4fbe7a5ea0d4e639ed8b"
+        },
+        {
+            "path": "ig_views/portrait2.png",
+            "sha256": "32f5521c949171e036929e2aba4ea9acaf431f4f49b316ead51312336c1a7cb5"
+        },
+        {
+            "path": "ig_views/portrait3.png",
+            "sha256": "987bd4395b2b30ce0b7ad968d52a446e4888ff23a613565b9cc4fe517e5e0e94"
+        },
+        {
+            "path": "ig_views/portrait4.png",
+            "sha256": "01a4fa96261d4517d0838175b564c0c8442785871024912dca014ada6fa4a3ac"
+        },
+        {
+            "path": "ig_views/portrait5.png",
+            "sha256": "d9c1d1e198a1ad52fe73dae2f03abb64836c712ec80104f670153a36fb10412a"
+        },
+        {
+            "path": "ig_views/profile_base.png",
+            "sha256": "c02e0a31bc6713d756183b2436cde3ce22c9c8365379fba21fc6edfc3aac3038"
+        },
+        {
+            "path": "ig_views/profile_frame.png",
+            "sha256": "c23ca80ef15d29b5f81e471fb9ac47bb81f792d9c26b06edc2f05b0f503919d1"
+        },
+        {
+            "path": "ig_views/share.css",
+            "sha256": "e03716d6854a96ef28b508dcc06b9c4e5be8c3b619a6ab639bae660330a36935"
+        },
+        {
+            "path": "ig_views/share.xml",
+            "sha256": "efbc0ce79b6dd064bfb68e543f89ebd362053c9c65b30899ab41bf9b0639e6f5"
+        },
+        {
+            "path": "ig_views/share_image_face.png",
+            "sha256": "608b17b2dcbae65c3f43a3ab8d050522f2c173bf00c8eadb8b43b69453a0c02f"
+        },
+        {
+            "path": "ig_views/slots.xml",
+            "sha256": "2da9a3e2aa5b6e8938608dd014ada67a8917e75847b7b7a213e509ad00506f2e"
+        },
+        {
+            "path": "index.html",
+            "sha256": "4fa625b204a2ec550de9e3cd64def2da13879e3721f5da47fced5eab767eee9d"
+        },
+        {
+            "path": "TemplateData/favicon.ico",
+            "sha256": "9c13beb90ee8f70580d52a21d5233970d1c89e71e4a34a462c22610941c3c77f"
+        },
+        {
+            "path": "TemplateData/fullscreen-button.png",
+            "sha256": "21221581673a54b8139d408d4a3f8d2b879e86827d4b6fc53b995ff7a99ee3e9"
+        },
+        {
+            "path": "TemplateData/progress-bar-empty-dark.png",
+            "sha256": "bbee7131afe8a3365906240d89184dc86234c119467f390bc4bc6802328fdb4d"
+        },
+        {
+            "path": "TemplateData/progress-bar-empty-light.png",
+            "sha256": "143696c060ad43d6c30f19ff5f49000927a139a2a1e4c9f45fafaa2b90d7d2be"
+        },
+        {
+            "path": "TemplateData/progress-bar-full-dark.png",
+            "sha256": "3306a6244dcb3926fca38a28e3ced589df8ff1beed955eb17c0bbf01c918bc62"
+        },
+        {
+            "path": "TemplateData/progress-bar-full-light.png",
+            "sha256": "12395ea785480c5cdf12fade6e6cbf49666d5bb1cef7240c113dbcba6bdc5c87"
+        },
+        {
+            "path": "TemplateData/style.css",
+            "sha256": "060e906711ebbb44dda2279a59e1141e754dc7b5e0f53b5a6f611956fffbb585"
+        },
+        {
+            "path": "TemplateData/unity-logo-dark.png",
+            "sha256": "c1b72d26c096487dabc948b54bc203f8dac7ed4e3f5733918798e858acb4b159"
+        },
+        {
+            "path": "TemplateData/unity-logo-light.png",
+            "sha256": "002990aea0d946833cadc1519d5b7e50a4570bd537a0517dd79a59d3eec84da7"
+        },
+        {
+            "path": "TemplateData/webgl-logo.png",
+            "sha256": "b30c3af2a4538c6edf5f2411953760641dfa257f2a4cc5b88d671aa243b1f12f"
+        },
+        {
+            "path": "local-fb-sdk.js",
+            "sha256": "65b51e0004a88d5497983dc2abfefcd03ca0af6b56f34762d0e6135faadf2d43"
+        }
+    ]
+}
