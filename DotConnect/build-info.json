@@ -1,13 +1,13 @@
 {
     "game": "DotConnect",
-    "appId": "994549686727845",
+    "appId": "2597000177399616",
     "unityVersion": "2022.3.62f3",
-    "builtAtUtc": "2026-10-14T13:43:56.9454678Z",
+    "builtAtUtc": "2026-10-17T03:16:07.9310604Z",
     "sdkMode": "preview",
     "files": [
         {
             "path": "Build/web.data",
-            "sha256": "03b4be164a126d1ddcd8b69c092436af5b37f864dbf1f03629490a153d472685"
+            "sha256": "07e8045cd33e15156ce7fb9f8ece2f65e4d434ee2a2c9dc47a97e252a08adfe3"
         },
         {
             "path": "Build/web.framework.js",
@@ -19,7 +19,7 @@
         },
         {
             "path": "Build/web.wasm",
-            "sha256": "2ee3172b626471db341a78e56b5a4da10e4d6323f4dbbb9dc90c5606deb6fe55"
+            "sha256": "0657afd7b51436c213d68d5cf61c331155c2f00d822db3af6e982985c9b5f0bf"
         },
         {
             "path": "cert.pem",
@@ -135,7 +135,7 @@
         },
         {
             "path": "index.html",
-            "sha256": "b9bb9451f6ddb4f5b97ea94d4f9c032f750fad82fae8035f5d1df41049bd78a0"
+            "sha256": "f49e98caa238a3b1192efdbf8ef2288ea4468abe20167b1ff8cca471b6d3d1be"
         },
         {
             "path": "StreamingAssets/UnityServicesProjectConfiguration.json",

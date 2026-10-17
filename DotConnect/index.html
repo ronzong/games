@@ -50,7 +50,7 @@ function loadUnity() {
  await FBInstant.initializeAsync();
  const playerId=FBInstant.player.getID();
  if(!playerId) throw new Error('Facebook player identity is unavailable');
- window.dotConnectSaveKey='dotconnect:994549686727845:'+playerId+':v1';
+ window.dotConnectSaveKey='dotconnect:2597000177399616:'+playerId+':v1';
  window.unityInstance=await loadUnity();
  await FBInstant.startGameAsync();
  window.dotConnectPlatformReady=true;
