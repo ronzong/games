@@ -1,0 +1,112 @@
+{
+  "game": "WarfareFactory",
+  "appId": "994549686727845",
+  "unityVersion": "2022.3.62f3",
+  "builtAtUtc": "2026-10-22T15:20:11.8760287Z",
+  "sdkMode": "preview",
+  "sdkVersion": "8.0",
+  "pluginCommit": "ec32ba76dc3716b3a08e4ebe15e5b5725488e005",
+  "files": [
+    {
+      "path": "Build/web.data",
+      "sha256": "8b68ea2ba2fbee5195367cf7d7859624c8a798ce3c0c9c10a2e985061b30acd0"
+    },
+    {
+      "path": "Build/web.framework.js",
+      "sha256": "143c8f2891dcdc0c47fc3d41eb39250db13c64d10870c6d8fec1aba72b2efb36"
+    },
+    {
+      "path": "Build/web.loader.js",
+      "sha256": "8e5e44b2fb9658e0d328e9d8251dc1343df430c8032517c37f2d79405794086b"
+    },
+    {
+      "path": "Build/web.wasm",
+      "sha256": "93d9afee0c271771fbb378816f663edf36620d353c72b25524926b13399be1a8"
+    },
+    {
+      "path": "facebook-config.json",
+      "sha256": "f251c05cb1382bc91a0c4d5d8c715368829248ab4a4554e524db0603e267a5c1"
+    },
+    {
+      "path": "fbapp-config.json",
+      "sha256": "4647a02a2dd98ebfaa75c23f1c2e188381d1049875f3640eae9ec27433f61eae"
+    },
+    {
+      "path": "index.html",
+      "sha256": "ddf9325cd62ad61c69ea8dacf828874820a39642b36932f3a61ea48e16926a30"
+    },
+    {
+      "path": "StreamingAssets/meta.mp4",
+      "sha256": "2d92d3f679d99d0c0a23ddcbf9bf6569c7c407b774a0b41278bf0faa2ba743d2"
+    },
+    {
+      "path": "StreamingAssets/meta-logo.png",
+      "sha256": "bc77ca13dcf7277a1655efcd106aac171cc83143f1a992f5b8d55e59ed478722"
+    },
+    {
+      "path": "StreamingAssets/OFL.txt",
+      "sha256": "8c5a26f488a9da24b647227808c2a2da8fb8094bb0cada233e596e4bf889859c"
+    },
+    {
+      "path": "StreamingAssets/TitanOne-ForFX.asset",
+      "sha256": "320be513bdc33704d3da4e5f43d3c3aa8a94a702e1804c262051e4f54d6964a4"
+    },
+    {
+      "path": "StreamingAssets/TitanOne-ForUI.asset",
+      "sha256": "4922c81849689bbc1836900d3055325008e29febbf0b2688b0045fe531e40141"
+    },
+    {
+      "path": "StreamingAssets/TitanOne-Regular SDF.asset",
+      "sha256": "bc873e15bd48d9d6c2a4650f6959e85fbd56c896f33adb01738d1aa0c54d05be"
+    },
+    {
+      "path": "StreamingAssets/TitanOne-Regular.ttf",
+      "sha256": "bcac194b2c80941682789e854d0515855a41dfa0d3f209fbf1725b15cd9fd063"
+    },
+    {
+      "path": "TemplateData/favicon.ico",
+      "sha256": "9c13beb90ee8f70580d52a21d5233970d1c89e71e4a34a462c22610941c3c77f"
+    },
+    {
+      "path": "TemplateData/fullscreen-button.png",
+      "sha256": "21221581673a54b8139d408d4a3f8d2b879e86827d4b6fc53b995ff7a99ee3e9"
+    },
+    {
+      "path": "TemplateData/progress-bar-empty-dark.png",
+      "sha256": "bbee7131afe8a3365906240d89184dc86234c119467f390bc4bc6802328fdb4d"
+    },
+    {
+      "path": "TemplateData/progress-bar-empty-light.png",
+      "sha256": "143696c060ad43d6c30f19ff5f49000927a139a2a1e4c9f45fafaa2b90d7d2be"
+    },
+    {
+      "path": "TemplateData/progress-bar-full-dark.png",
+      "sha256": "3306a6244dcb3926fca38a28e3ced589df8ff1beed955eb17c0bbf01c918bc62"
+    },
+    {
+      "path": "TemplateData/progress-bar-full-light.png",
+      "sha256": "12395ea785480c5cdf12fade6e6cbf49666d5bb1cef7240c113dbcba6bdc5c87"
+    },
+    {
+      "path": "TemplateData/style.css",
+      "sha256": "060e906711ebbb44dda2279a59e1141e754dc7b5e0f53b5a6f611956fffbb585"
+    },
+    {
+      "path": "TemplateData/unity-logo-dark.png",
+      "sha256": "c1b72d26c096487dabc948b54bc203f8dac7ed4e3f5733918798e858acb4b159"
+    },
+    {
+      "path": "TemplateData/unity-logo-light.png",
+      "sha256": "002990aea0d946833cadc1519d5b7e50a4570bd537a0517dd79a59d3eec84da7"
+    },
+    {
+      "path": "TemplateData/webgl-logo.png",
+      "sha256": "b30c3af2a4538c6edf5f2411953760641dfa257f2a4cc5b88d671aa243b1f12f"
+    },
+    {
+      "path": "local-fb-sdk.js",
+      "sha256": "7e88e19b3263c3f8888cfda5455f4ed64ac5f67ea09896931ce299fa9b7d59f5"
+    }
+  ],
+  "repackagedAtUtc": "2026-10-22T15:27:40.263064+00:00"
+}
