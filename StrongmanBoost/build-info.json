@@ -1,6 +1,6 @@
 {
   "game": "StrongmanBoost",
-  "appId": "994549686727845",
+  "appId": "2212469119697513",
   "unityVersion": "2022.3.62f3",
   "builtAtUtc": "2026-10-18T01:16:10.3520692Z",
   "sdkMode": "preview",
@@ -25,7 +25,7 @@
     },
     {
       "path": "facebook-config.json",
-      "sha256": "f251c05cb1382bc91a0c4d5d8c715368829248ab4a4554e524db0603e267a5c1"
+      "sha256": "ed320a051e8cce0b5db6bcd990bd951658df651f007109396313dd51ba137ae1"
     },
     {
       "path": "fbapp-config.json",
@@ -80,5 +80,5 @@
       "sha256": "fab3f0df89bde20316750b61e2d2be026e4148fda6cfb9e5e74dbeddd3803a83"
     }
   ],
-  "repackagedAtUtc": "2026-10-18T01:16:43.450986+00:00"
+  "repackagedAtUtc": "2026-10-18T13:01:12.236650+00:00"
 }
