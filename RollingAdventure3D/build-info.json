@@ -1,0 +1,83 @@
+{
+    "game": "RollingAdventure3D",
+    "appId": "994549686727845",
+    "unityVersion": "2022.3.62f3",
+    "builtAtUtc": "2026-10-22T13:47:56.1815905Z",
+    "sdkMode": "preview",
+    "sdkVersion": "8.0",
+    "pluginCommit": "ec32ba76dc3716b3a08e4ebe15e5b5725488e005",
+    "files": [
+        {
+            "path": "Build/web.data",
+            "sha256": "b4e56f52d72dd669e5705e87dfbb244ae0c6ee6ed5d04547df785a8f2b4c9e3c"
+        },
+        {
+            "path": "Build/web.framework.js",
+            "sha256": "80a2085edb8300d36ca1263205432db96c4e108e8b5907d72ee54763c566a3b0"
+        },
+        {
+            "path": "Build/web.loader.js",
+            "sha256": "8e5e44b2fb9658e0d328e9d8251dc1343df430c8032517c37f2d79405794086b"
+        },
+        {
+            "path": "Build/web.wasm",
+            "sha256": "c5c6368bd78199613e0995e11bf5382b487cf9d5925917d44c0af21531a73f38"
+        },
+        {
+            "path": "facebook-config.json",
+            "sha256": "f251c05cb1382bc91a0c4d5d8c715368829248ab4a4554e524db0603e267a5c1"
+        },
+        {
+            "path": "fbapp-config.json",
+            "sha256": "95516eb89e208c26f88c43743ad40ab075e08572102b2fc5c4e7a782f0c7e7b9"
+        },
+        {
+            "path": "index.html",
+            "sha256": "aedceac839737a2c71500582dbdccb8ce9059184ea98128d8c85455b189605dc"
+        },
+        {
+            "path": "TemplateData/favicon.ico",
+            "sha256": "9c13beb90ee8f70580d52a21d5233970d1c89e71e4a34a462c22610941c3c77f"
+        },
+        {
+            "path": "TemplateData/fullscreen-button.png",
+            "sha256": "21221581673a54b8139d408d4a3f8d2b879e86827d4b6fc53b995ff7a99ee3e9"
+        },
+        {
+            "path": "TemplateData/progress-bar-empty-dark.png",
+            "sha256": "bbee7131afe8a3365906240d89184dc86234c119467f390bc4bc6802328fdb4d"
+        },
+        {
+            "path": "TemplateData/progress-bar-empty-light.png",
+            "sha256": "143696c060ad43d6c30f19ff5f49000927a139a2a1e4c9f45fafaa2b90d7d2be"
+        },
+        {
+            "path": "TemplateData/progress-bar-full-dark.png",
+            "sha256": "3306a6244dcb3926fca38a28e3ced589df8ff1beed955eb17c0bbf01c918bc62"
+        },
+        {
+            "path": "TemplateData/progress-bar-full-light.png",
+            "sha256": "12395ea785480c5cdf12fade6e6cbf49666d5bb1cef7240c113dbcba6bdc5c87"
+        },
+        {
+            "path": "TemplateData/style.css",
+            "sha256": "aabfe5d322b8d4344c0c56a38bcb37c26eda29b6187c3cdfb5972c36e4c0e4e6"
+        },
+        {
+            "path": "TemplateData/unity-logo-dark.png",
+            "sha256": "c1b72d26c096487dabc948b54bc203f8dac7ed4e3f5733918798e858acb4b159"
+        },
+        {
+            "path": "TemplateData/unity-logo-light.png",
+            "sha256": "002990aea0d946833cadc1519d5b7e50a4570bd537a0517dd79a59d3eec84da7"
+        },
+        {
+            "path": "TemplateData/webgl-logo.png",
+            "sha256": "b30c3af2a4538c6edf5f2411953760641dfa257f2a4cc5b88d671aa243b1f12f"
+        },
+        {
+            "path": "local-fb-sdk.js",
+            "sha256": "f8b8174ebf2f0d3daddf81070258ffe86afbf4a8917d720313b0c00ca95c903f"
+        }
+    ]
+}
