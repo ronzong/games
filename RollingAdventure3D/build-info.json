@@ -2,18 +2,18 @@
     "game": "RollingAdventure3D",
     "appId": "994549686727845",
     "unityVersion": "2022.3.62f3",
-    "builtAtUtc": "2026-10-22T13:47:56.1815905Z",
+    "builtAtUtc": "2026-10-22T14:14:10.1708764Z",
     "sdkMode": "preview",
     "sdkVersion": "8.0",
     "pluginCommit": "ec32ba76dc3716b3a08e4ebe15e5b5725488e005",
     "files": [
         {
             "path": "Build/web.data",
-            "sha256": "b4e56f52d72dd669e5705e87dfbb244ae0c6ee6ed5d04547df785a8f2b4c9e3c"
+            "sha256": "da3ef1de521b6e19358cfb32009241560587f66d3c2d866b816b09135a4d5ff4"
         },
         {
             "path": "Build/web.framework.js",
-            "sha256": "80a2085edb8300d36ca1263205432db96c4e108e8b5907d72ee54763c566a3b0"
+            "sha256": "237d56520bdb6501616bd2336e17ffc82a5f034514c0ac0b01b4b713742581d4"
         },
         {
             "path": "Build/web.loader.js",
@@ -21,7 +21,7 @@
         },
         {
             "path": "Build/web.wasm",
-            "sha256": "c5c6368bd78199613e0995e11bf5382b487cf9d5925917d44c0af21531a73f38"
+            "sha256": "86268aafa82b330e72f15d113a222e4114df9a07d651b411b60bacc8ded2ec9a"
         },
         {
             "path": "facebook-config.json",
