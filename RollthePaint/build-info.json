@@ -1,19 +1,19 @@
 {
     "game": "RollthePaint",
-    "appId": "994549686727845",
+    "appId": "1145959817882689",
     "unityVersion": "2022.3.62f3",
-    "builtAtUtc": "2026-10-23T16:23:12.7321867Z",
+    "builtAtUtc": "2026-10-26T14:45:13.2571169Z",
     "sdkMode": "preview",
     "sdkVersion": "8.0",
     "pluginCommit": "ec32ba76dc3716b3a08e4ebe15e5b5725488e005",
     "files": [
         {
             "path": "Build/web.data",
-            "sha256": "7abb8bdb601e32962e885938d6987e62d641b9f7899ba4c25bf5c67945eb1242"
+            "sha256": "f15121b03f45f2207c29be8382c34ff85f304ec5151a32f7c2e23dfac47e639f"
         },
         {
             "path": "Build/web.framework.js",
-            "sha256": "cec266efe8a4ff21989f97a4c9cd44bf1f28f778e8f1c3f7cc629a919602b4b5"
+            "sha256": "08d62469a6d882b55bead9af9acb24ad7c703d6fba8d2e371913dab75aa4aae7"
         },
         {
             "path": "Build/web.loader.js",
@@ -21,11 +21,11 @@
         },
         {
             "path": "Build/web.wasm",
-            "sha256": "2d02627ef933d405508bb72e39500690524f732fa814e6298253bf8a0cd1166f"
+            "sha256": "b9b90134b5ad7b5267a49c4e08d96f5916b711bb9936e8af6f1e558e243da707"
         },
         {
             "path": "facebook-config.json",
-            "sha256": "cebf07420d4a7fa1209f6c40f6381f686a8cb14f9a0fef028f5a1b52c2eb6cdd"
+            "sha256": "fc504c1e79e775f6afb92656a0191c335f02ed506af035c307860eec80367bae"
         },
         {
             "path": "fbapp-config.json",

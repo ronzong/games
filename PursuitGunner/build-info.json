@@ -1,19 +1,19 @@
 {
     "game": "PursuitGunner",
-    "appId": "994549686727845",
+    "appId": "1624836259341749",
     "unityVersion": "2022.3.62f3",
-    "builtAtUtc": "2026-10-23T16:01:43.8430478Z",
+    "builtAtUtc": "2026-10-26T14:45:03.3771641Z",
     "sdkMode": "preview",
     "sdkVersion": "8.0",
     "pluginCommit": "ec32ba76dc3716b3a08e4ebe15e5b5725488e005",
     "files": [
         {
             "path": "Build/web.data",
-            "sha256": "1deaa0bd72d690f4f6c486aa0871bb06c4375f67024d980432e8409f46632843"
+            "sha256": "ddbf655276aa882847b78dcad6b5aec4fe3bf8a1b8720cb8d8b3c71d9d8808a6"
         },
         {
             "path": "Build/web.framework.js",
-            "sha256": "6140c41513b65066f3567cccb1b164cfd358cc7dddf23f14ba1fe46647fc7192"
+            "sha256": "02625d70451cd4f4fd20624a18e09373a99cb4efc44da2591a7507828ace6f5e"
         },
         {
             "path": "Build/web.loader.js",
@@ -21,11 +21,11 @@
         },
         {
             "path": "Build/web.wasm",
-            "sha256": "285247509e39a69760dc7a7dc970ff896f4da700ff3ba3c79fcac7dccd0e7b72"
+            "sha256": "972dbc3cd75b949d3ad0539f36bf9ad5aeea691156349cb46939622358e4f1d7"
         },
         {
             "path": "facebook-config.json",
-            "sha256": "cebf07420d4a7fa1209f6c40f6381f686a8cb14f9a0fef028f5a1b52c2eb6cdd"
+            "sha256": "3531e56202fc591c40686b1f93bda52705f7401e31216d3b09ea73fadce31363"
         },
         {
             "path": "fbapp-config.json",

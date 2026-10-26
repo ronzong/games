@@ -1,19 +1,19 @@
 {
     "game": "SnakeEntwine",
-    "appId": "994549686727845",
+    "appId": "966765882692163",
     "unityVersion": "2022.3.62f3",
-    "builtAtUtc": "2026-10-23T15:18:51.4525646Z",
+    "builtAtUtc": "2026-10-26T14:56:00.0456157Z",
     "sdkMode": "preview",
     "sdkVersion": "8.0",
     "pluginCommit": "ec32ba76dc3716b3a08e4ebe15e5b5725488e005",
     "files": [
         {
             "path": "Build/web.data",
-            "sha256": "8f4db8e7065207eb4c71802760d1075ad0d0c1e032a1848d13a02897a788cc5c"
+            "sha256": "e14955e8f0b42ed6b5b278b8ab43b7e71f6b28568f9445b72b2ba5c861b662de"
         },
         {
             "path": "Build/web.framework.js",
-            "sha256": "52947559c37b3861d2b2e1cfd67abc0a88583030710c4443cc3d06367257b376"
+            "sha256": "7ee91e1c4f7e4a3ccf83fe1cc3563cf871040b72194adb60a3a9a08a1b715298"
         },
         {
             "path": "Build/web.loader.js",
@@ -21,11 +21,11 @@
         },
         {
             "path": "Build/web.wasm",
-            "sha256": "f4c1daa6329c762f6e6e0b1018421353797e9641ce7a25dec63490aa15f82d2f"
+            "sha256": "8252a3f5f0345d997bad1a2cc62ed1e2ba72551066b01be46a381628b454d5e9"
         },
         {
             "path": "facebook-config.json",
-            "sha256": "f251c05cb1382bc91a0c4d5d8c715368829248ab4a4554e524db0603e267a5c1"
+            "sha256": "e5ae9cf2eb49ecb7fd329ca59b7ed9297ce1d900f4a395093b7a9b7ee743449e"
         },
         {
             "path": "fbapp-config.json",
